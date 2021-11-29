@@ -1,0 +1,22 @@
+{
+  "name": "unit-testing-jest",
+  "version": "1.0.0",
+  "description": "pruebas unitarias con jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ernestozann/unit-testing-jest.git"
+  },
+  "author": "Ernesto Martinez <ernestomm99@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ernestozann/unit-testing-jest/issues"
+  },
+  "homepage": "https://github.com/ernestozann/unit-testing-jest#readme",
+  "devDependencies": {
+    "jest": "^27.4.0"
+  }
+}
